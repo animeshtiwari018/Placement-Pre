@@ -253,4 +253,4 @@ Build first.
 
 Polish later.
 
-> A small finished project beats a sophisticated unfinished i
+> A small finished project beats a sophisticated unfinished 
