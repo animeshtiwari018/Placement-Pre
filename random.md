@@ -253,4 +253,3 @@ Build first.
 
 Polish later.
 
-> A small finished project beats a sophistica
