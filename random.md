@@ -249,7 +249,4 @@ Mention **3 features** you would add in version 2.
 
 **Don't spend 3 hours designing the README for a project that doesn't work.**
 
-Build first.
-
-Polish later.
 
