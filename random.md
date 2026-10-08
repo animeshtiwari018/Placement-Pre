@@ -245,7 +245,7 @@ Mention **3 features** you would add in version 2.
 
 ---
 
-## One Last Rule
+
 
 
 
